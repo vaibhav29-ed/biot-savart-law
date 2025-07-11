@@ -1,7 +1,7 @@
 # 🔄 Biot–Savart Law Simulation
 
-Author: Vaibhav Singh  
-Project Type: First-Year College Physics + Programming Integration  
+Author: **Vaibhav Singh**  
+Project Type: **First-Year College Physics + Programming Integration**  
 Language: Python  
 Visualization: Plotly 3D  
 
@@ -9,7 +9,7 @@ Visualization: Plotly 3D
 
 # 🧠 About the Project
 
-When I was in my 12th class, I studied the Biot–Savart Law in Physics — a concept describing how steady electric currents create magnetic fields. It fascinated me, but the visuals were mostly static and theoretical.
+When I was in my 12th class, I studied the **Biot–Savart Law** in Physics — a concept describing how steady electric currents create magnetic fields. It fascinated me, but the visuals were mostly static and theoretical.
 
 In my first year of engineering, I decided to build this simulation from scratch to better understand both the **physics theory** and **programming concepts.
 
@@ -47,12 +47,9 @@ cd biot-savart-law
 
 3. Install dependencies
 4.  Run the script
-5.  Optional: Export visualization  
-```python
-fig.write_html("biot-savart.html")
 
 
-🎓 Educational Value
+## 🎓 Educational Value
 
 This project deepened my understanding of:
 
@@ -62,9 +59,11 @@ Python programming and visualization
 
 Numerical simulations in physics
 
-🔗 Demo - https://colab.research.google.com/drive/1MheHrIYXwd4vYv0Ky1p9eKL6q1xLb3d-?usp=sharing
+## 🔗 Demo 
+https://colab.research.google.com/drive/1MheHrIYXwd4vYv0Ky1p9eKL6q1xLb3d-?usp=sharing
 
-📬 Contact
+
+## 📬 Contact
 Feel free to connect with me on LinkedIn or raise issues in this repo.
 user id - www.linkedin.com/in/vaibhav-singh-680910217
 
