@@ -38,14 +38,6 @@ It uses the vector form of the Biot–Savart Law and calculates magnetic field v
 
 ---
 
-## 📂 Run Locally
-
-1. Clone the repo
-2. git clone https://github.com/vaibhav29-ed/biot-savart-law.git
-cd biot-savart-law
-
-3. Install dependencies
-4.  Run the script
 
 
 ## 🎓 Educational Value
