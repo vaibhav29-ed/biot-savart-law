@@ -8,7 +8,6 @@ Visualization: Plotly 3D
 ---
 
 # 🧠 About the Project
-
 When I was in my 12th class, I studied the **Biot–Savart Law** in Physics — a concept describing how steady electric currents create magnetic fields. It fascinated me, but the visuals were mostly static and theoretical.
 
 In my first year of engineering, I decided to build this simulation from scratch to better understand both the **physics theory** and **programming concepts.
