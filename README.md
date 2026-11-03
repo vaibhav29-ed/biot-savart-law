@@ -25,7 +25,7 @@ Running the simulation requires a Python environment with the following dependen
 
 ## Usage
 
-Run the primary simulation script with Python:
+Run the primary simulation script:
 
 ```bash
 python biot-savart-sim.py
